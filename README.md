@@ -2,4 +2,7 @@
 Style a Settlers of Catan style hexagon tile pattern from an input map
 
 # To-do
-- Go about... creating this.
+- Write script to read input map.
+- Decide how to demarcate sections *not* to map.
+- Find / generate usable Catan tiles.
+- Cities?!
